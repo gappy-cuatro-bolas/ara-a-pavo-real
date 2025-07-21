@@ -517,19 +517,19 @@
       <h2 class="section-title">Galería</h2>
       <div class="gallery">
         <div class="gallery-item">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Peacock_Spider_-_Maratus_volans.jpg/1200px-Peacock_Spider_-_Maratus_volans.jpg" alt="Araña pavo real desplegada">
+          <img src="https://ambienta.uy/wp-content/uploads/2024/03/1647511932967151-0-1.webp" alt="Araña pavo real desplegada">
           <div class="gallery-caption">Macho desplegando su colorido abdomen</div>
         </div>
         <div class="gallery-item">
-          <img src="https://www.australiangeographic.com.au/wp-content/uploads/2018/06/peacock-spider.jpg" alt="Araña pavo real de cerca">
+          <img src="https://pictureinsect.com/wiki-image/1080/153804153301237799.jpeg" alt="Araña pavo real de cerca">
           <div class="gallery-caption">Detalle de sus colores iridiscentes</div>
         </div>
         <div class="gallery-item">
-          <img src="https://www.smithsonianmag.com/smart-news/scientists-discover-seven-new-species-peacock-spiders-180963026/" alt="Danza de cortejo">
+          <img src="https://metastico.wordpress.com/wp-content/uploads/2014/12/1082111673.jpeg" alt="Danza de cortejo">
           <div class="gallery-caption">Compleja danza de cortejo</div>
         </div>
         <div class="gallery-item">
-          <img src="https://www.nationalgeographic.com/animals/invertebrates/facts/peacock-spider" alt="Comparación macho-hembra">
+          <img src="https://wroooses.wordpress.com/wp-content/uploads/2015/01/maratus_volans_f5579.jpg?w=611&h=407" alt="Comparación macho-hembra">
           <div class="gallery-caption">Macho (colorido) y hembra (marrón)</div>
         </div>
       </div>
